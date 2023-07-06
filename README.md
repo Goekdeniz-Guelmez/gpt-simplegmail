@@ -6,7 +6,7 @@ This project consists of a Python script that utilizes the OpenAI API, Gmail API
 
 To run the script, follow these steps:
 
-1. Install the required Python packages by running the command `pip install openai simplegmail`.
+1. Install the required Python packages by running the command `pip install openai simplegmail edgegpt`.
 
 2. Obtain an OpenAI API key and set it in the `openai.api_key` variable within the script.
 

@@ -6,7 +6,7 @@ import openai
 from simplegmail import Gmail
 from EdgeGPT.EdgeGPT import Chatbot, ConversationStyle
 
-# setting up the gmail token (a safari, chrome,... window will open and you have to log in with your gmail account)
+# setting up the gmail token (a safari, chrome,... window will open and you have to log in with your gmail account) after that rerunn this code and it should be working
 gmail = Gmail()
 openai.api_key = "" # The Openai API Key
 
